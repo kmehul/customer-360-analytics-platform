@@ -1,0 +1,14 @@
+# Ignore Airflow logs
+logs/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environment folders
+venv/
+.env/
+
+# Ignore macOS metadata files
+.DS_Store
