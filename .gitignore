@@ -12,3 +12,4 @@ venv/
 
 # Ignore macOS metadata files
 .DS_Store
+.idea/
