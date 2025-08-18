@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+1,Smartwatch,Electronics,213.43
+2,Wireless Headphones,Electronics,331.93
+3,4K Monitor,Electronics,799.64
+4,USB-C Hub,Electronics,31.33
+5,Portable Charger,Electronics,112.92
+6,Bluetooth Speaker,Electronics,91.2
+7,Gaming Mouse,Electronics,127.46
+8,Webcam,Electronics,149.99
+9,Mechanical Keyboard,Electronics,127.12
+10,Tablet Stand,Electronics,28.35
+11,Air Fryer,Home Goods,157.54
+12,Scented Candle,Home Goods,18.18
+13,Plush Blanket,Home Goods,91.1
+14,Picture Frame,Home Goods,48.87
+15,Knife Set,Home Goods,276.56
+16,Coffee Maker,Home Goods,291.41
+17,Throw Pillow,Home Goods,22.75
+18,Wall Clock,Home Goods,59.26
+19,Essential Oil Diffuser,Home Goods,86.19
+20,Storage Basket,Home Goods,44.59
+21,The Midnight Library,Books,20.07
+22,Project Hail Mary,Books,19.85
+23,Atomic Habits,Books,27.33
+24,Dune,Books,18.53
+25,Klara and the Sun,Books,20.97
+26,Where the Crawdads Sing,Books,16.33
+27,The Seven Husbands of Evelyn Hugo,Books,22.59
+28,Educated,Books,27.85
+29,Becoming,Books,22.76
+30,The Silent Patient,Books,19.52
+31,Avocado,Groceries,2.13
+32,Sourdough Bread,Groceries,5.93
+33,Organic Coffee,Groceries,19.92
+34,Greek Yogurt,Groceries,5.69
+35,Quinoa,Groceries,11.64
+36,Almond Milk,Groceries,3.89
+37,Dark Chocolate,Groceries,7.63
+38,Olive Oil,Groceries,18.7
+39,Honey,Groceries,14.61
+40,Pasta,Groceries,4.4
+41,Classic T-Shirt,Apparel,28.28
+42,Running Shoes,Apparel,148.34
+43,Denim Jacket,Apparel,143.91
+44,Beanie Hat,Apparel,15.0
+45,Sunglasses,Apparel,152.47
+46,Hoodie,Apparel,74.45
+47,Sneakers,Apparel,102.41
+48,Leather Belt,Apparel,62.43
+49,Baseball Cap,Apparel,28.04
+50,Wool Scarf,Apparel,26.83
