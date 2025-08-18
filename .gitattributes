@@ -1,2 +1,30 @@
-# Make query languages count towards repository statistics
-*.sql linguist-detectable=true
+# Force GitHub Linguist to detect programming languages only
+
+# ✅ Programming languages (counted)
+*.py        linguist-detectable=true linguist-language=Python
+*.ipynb     linguist-detectable=true linguist-language=Jupyter Notebook
+*.sql       linguist-detectable=true linguist-language=SQL
+*.tsql      linguist-detectable=true linguist-language=TSQL
+*.aql       linguist-detectable=true linguist-language=SQL  # adjust if needed
+*.js        linguist-detectable=true linguist-language=JavaScript
+*.ts        linguist-detectable=true linguist-language=TypeScript
+*.java      linguist-detectable=true linguist-language=Java
+*.cpp       linguist-detectable=true linguist-language=C++
+*.c         linguist-detectable=true linguist-language=C
+*.rb        linguist-detectable=true linguist-language=Ruby
+*.go        linguist-detectable=true linguist-language=Go
+*.php       linguist-detectable=true linguist-language=PHP
+*.r         linguist-detectable=true linguist-language=R
+*.html      linguist-detectable=true linguist language=HTML
+*.css       linguist-detectable=true linguist language=CSS
+
+
+# ❌ Data / Config / Markup (ignored)
+*.csv       linguist-detectable=false
+*.json      linguist-detectable=false
+*.xml       linguist-detectable=false
+*.svg       linguist-detectable=false
+*.md        linguist-detectable=false
+*.txt       linguist-detectable=false
+*.yml       linguist-detectable=false
+*.yaml      linguist-detectable=false
