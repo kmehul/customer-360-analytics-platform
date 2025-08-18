@@ -1,3 +1,2 @@
-*.sql linguist-detectable=true
-*.sql linguist-language=SQL
-
+# Make sure all files are detected
+* linguist-detectable=true
