@@ -46,7 +46,8 @@ The project is designed as a journey for the data, moving through five distinct 
 
 ## 4. Architecture
 
-![Project Architecture Diagram](Diagrams/architecture_diagram.svg)
+<img src="Diagrams/architecture_diagram.svg">
+
 
 The architecture is composed of six key layers, moving data from generation to insight.
 
@@ -62,7 +63,7 @@ The architecture is composed of six key layers, moving data from generation to i
 
 The analytics layer of the project is built on a **star schema** data model, which is optimized for business intelligence and reporting.
 
-![Star Schema Diagram](Diagrams/star_dimensional_model.png)
+<img src="Diagrams/star_dimensional_model.png">
 
 As the diagram illustrates, the model features a central fact table, `fct_sales`, which contains the quantitative measures of business events (e.g., `sale_amount`, `quantity`). This fact table is linked via foreign keys to three descriptive dimension tables:
 * **`dim_customer`:** Contains all customer attributes. It is designed as a Slowly Changing Dimension (SCD Type 2) to track the history of customer data changes.
